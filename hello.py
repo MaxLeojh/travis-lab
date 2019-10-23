@@ -1,6 +1,6 @@
-def printB:
+def printB():
     print("B")
 
 
 print("Hello World!")
-printB
+printB()
